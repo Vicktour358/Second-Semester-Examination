@@ -36,7 +36,7 @@ Domain Name: (https://afolabivictor.mooo.com/)
 * Press the command “git commit -m "Your commit message"”     .....# To add commit message  
 * Press the command “git remote add origin https://github.com/Vicktour358/Second-Semester-Examination”     .....# Link to your remote Repo  
 * Press the command “git push -u origin main”     .....# Push to the remote repository  
-### Deploy the HTML WebPage to the Server
+### How to Deploy the HTML WebPage to the Server
 * SSH into your server  
 * Press the command “cd /var/www/html”     .....#to enter the directory of the web server  
 * Press the command “sudo rm index.nginx-debian.html”     .....#to remove the default HTML file from the server directory  

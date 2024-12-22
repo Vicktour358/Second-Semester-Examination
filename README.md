@@ -49,7 +49,7 @@ Domain Name: afolabivictor.mooo.com
 
 ## Screenshots of my Project
 Successful Installation of Web Server (NGINX)
-![Installation of Web Server (NGINX)](Pics/Nginx.JPG "Successful Installation of Web Server (NGINX)")
+![Installation of Web Server (NGINX)](Screenshots/Nginx.JPG "Successful Installation of Web Server (NGINX)")
 
 Successful Deployment of HTML Web Page
-![Loading of Deployed HTML Web Page](Pics/Webpage.JPG "Successful Deployment of HTML Web Page")
+![Loading of Deployed HTML Web Page](Screenshots/Webpage.JPG "Successful Deployment of HTML Web Page")
